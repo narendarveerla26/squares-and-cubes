@@ -1,1 +1,1 @@
-# squares-and-cubes
+# square-and-cubes
